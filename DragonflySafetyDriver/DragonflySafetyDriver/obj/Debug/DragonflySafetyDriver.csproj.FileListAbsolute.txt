@@ -1,0 +1,10 @@
+C:\Users\Kyle\source\repos\DragonflySafetyDriver\DragonflySafetyDriver\bin\Debug\ASCOM.LunaticoDragonfly.exe.config
+C:\Users\Kyle\source\repos\DragonflySafetyDriver\DragonflySafetyDriver\bin\Debug\ASCOM.LunaticoDragonfly.exe
+C:\Users\Kyle\source\repos\DragonflySafetyDriver\DragonflySafetyDriver\bin\Debug\ASCOM.LunaticoDragonfly.pdb
+C:\Users\Kyle\source\repos\DragonflySafetyDriver\DragonflySafetyDriver\obj\Debug\DragonflySafetyDriver.csproj.AssemblyReference.cache
+C:\Users\Kyle\source\repos\DragonflySafetyDriver\DragonflySafetyDriver\obj\Debug\ASCOM.LocalServer.FrmMain.resources
+C:\Users\Kyle\source\repos\DragonflySafetyDriver\DragonflySafetyDriver\obj\Debug\ASCOM.LunaticoDragonfly.SafetyMonitor.SetupDialogForm.resources
+C:\Users\Kyle\source\repos\DragonflySafetyDriver\DragonflySafetyDriver\obj\Debug\DragonflySafetyDriver.csproj.GenerateResource.cache
+C:\Users\Kyle\source\repos\DragonflySafetyDriver\DragonflySafetyDriver\obj\Debug\DragonflySafetyDriver.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\DragonflySafetyDriver\DragonflySafetyDriver\obj\Debug\ASCOM.LunaticoDragonfly.exe
+C:\Users\Kyle\source\repos\DragonflySafetyDriver\DragonflySafetyDriver\obj\Debug\ASCOM.LunaticoDragonfly.pdb
