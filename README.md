@@ -1,0 +1,1 @@
+ASCOM.LunaticoDragonfly.SafetyMonitor is an ASCOM Safety driver which presents as SAFE when the a specified Dragonfly sensor is closed (roof is open). The Dragonfly is checked via the HTTP API, so the Dragonfly app need not be installed on the machine checking the safety status.  The location of the Dragonfly and the sensor to check are configurable.
